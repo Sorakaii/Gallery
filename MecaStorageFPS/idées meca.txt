@@ -1,0 +1,11 @@
+ghost runner mécaniques idées : 
+
+glissade + en pentes
+wall run check
+grappin
+escalade rebord
+dash
+slow-motion
+
+grappin collé à mur pour enchaîner sur un wall run
+dash réutilisable après obtention d'objet ou de contact avec surfaces (mur ou sol ou grappin)
