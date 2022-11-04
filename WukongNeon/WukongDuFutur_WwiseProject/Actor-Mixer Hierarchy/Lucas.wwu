@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9C9D39D9-27F1-4474-A4C6-10DBEBA6D192}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Lucas" ID="{9C9D39D9-27F1-4474-A4C6-10DBEBA6D192}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="SFX_TrapBall" ID="{48EC5E41-2AA1-4146-A424-B86971214D8C}" ShortID="891136313">
+					<ChildrenList>
+						<WorkUnit Name="SFX_TrapBall" ID="{E342CD9E-DF82-4ECC-A886-23C2483295B0}" PersistMode="Reference"/>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="SFX_TrapAxe" ID="{3D3FCE2B-D03F-42AE-93A2-1809F91E23CC}" ShortID="1003831298">
+					<ChildrenList>
+						<WorkUnit Name="SFX_TrapAxe" ID="{E801B78D-3465-4408-9BC4-7261146C209B}" PersistMode="Reference"/>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

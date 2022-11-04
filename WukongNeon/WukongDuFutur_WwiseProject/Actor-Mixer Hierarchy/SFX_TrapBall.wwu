@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E342CD9E-DF82-4ECC-A886-23C2483295B0}" SchemaVersion="97" RootDocumentID="{9C9D39D9-27F1-4474-A4C6-10DBEBA6D192}">
+	<AudioObjects>
+		<WorkUnit Name="SFX_TrapBall" ID="{E342CD9E-DF82-4ECC-A886-23C2483295B0}" OwnerID="{48EC5E41-2AA1-4146-A424-B86971214D8C}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="SFX_BlowBalls_OS" ID="{F8E2C4CB-1FA9-4F36-8BE5-B7AC75520082}" ShortID="877212007">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7CC3C69-71C2-455A-AD1B-5D2CD2C5E93A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{61E31774-B5B1-4A20-A079-BC4E0A939874}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SFX_BlowBalls_OS" ID="{3352EDE9-8711-471A-998E-B42B266856DE}">
+							<Language>SFX</Language>
+							<AudioFile>SFX_BlowBalls_OS.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="240655961"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SFX_BlowBalls_OS" ID="{3352EDE9-8711-471A-998E-B42B266856DE}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

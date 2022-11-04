@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5446FB2D-4026-46FC-A829-3EEBF81BD12B}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Camille" ID="{5446FB2D-4026-46FC-A829-3EEBF81BD12B}" PersistMode="Standalone"/>
+	</GameParameters>
+</WwiseDocument>

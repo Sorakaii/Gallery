@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FC07FC70-DA13-4649-9AE4-96A164354D31}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Lucas" ID="{FC07FC70-DA13-4649-9AE4-96A164354D31}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_BlowBalls" ID="{88975ADE-E2D3-4E8E-8D0C-7CCECBFC05C3}">
+					<ChildrenList>
+						<Action Name="" ID="{BEC5A59B-359A-42F2-BCF4-1F050606160E}" ShortID="1072888858">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SFX_BlowBalls_OS" ID="{F8E2C4CB-1FA9-4F36-8BE5-B7AC75520082}" WorkUnitID="{E342CD9E-DF82-4ECC-A886-23C2483295B0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AxeSwing" ID="{CCF7173F-8EA2-46A8-99FF-CF5A7E0CFF88}">
+					<ChildrenList>
+						<Action Name="" ID="{EBB59AA9-82FE-4977-9CC7-2B700F3439FA}" ShortID="22518842">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SFX_AxeSwing_OS" ID="{6BA52B2D-5449-491F-8D71-9152CCC79030}" WorkUnitID="{E801B78D-3465-4408-9BC4-7261146C209B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

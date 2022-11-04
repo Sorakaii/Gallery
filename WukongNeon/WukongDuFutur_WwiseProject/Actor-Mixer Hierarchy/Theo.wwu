@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AD642DC9-DE2E-4711-A44A-3E93C9E119B0}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Theo" ID="{AD642DC9-DE2E-4711-A44A-3E93C9E119B0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Laser Gun Sound Effect 2" ID="{95F359F9-DE69-490F-93C2-9B1FC945F843}" ShortID="994821058">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7CC3C69-71C2-455A-AD1B-5D2CD2C5E93A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{61E31774-B5B1-4A20-A079-BC4E0A939874}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Laser Gun Sound Effect 2" ID="{3AD3876F-6063-4C19-8754-8884CA2CB73F}">
+							<Language>SFX</Language>
+							<AudioFile>Laser Gun Sound Effect 2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="146506597"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Laser Gun Sound Effect 2" ID="{3AD3876F-6063-4C19-8754-8884CA2CB73F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

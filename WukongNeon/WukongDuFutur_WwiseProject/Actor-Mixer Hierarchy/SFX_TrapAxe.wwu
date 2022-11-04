@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E801B78D-3465-4408-9BC4-7261146C209B}" SchemaVersion="97" RootDocumentID="{9C9D39D9-27F1-4474-A4C6-10DBEBA6D192}">
+	<AudioObjects>
+		<WorkUnit Name="SFX_TrapAxe" ID="{E801B78D-3465-4408-9BC4-7261146C209B}" OwnerID="{3D3FCE2B-D03F-42AE-93A2-1809F91E23CC}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="SFX_AxeSwing_OS" ID="{6BA52B2D-5449-491F-8D71-9152CCC79030}" ShortID="614885397">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7CC3C69-71C2-455A-AD1B-5D2CD2C5E93A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{61E31774-B5B1-4A20-A079-BC4E0A939874}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SFX_AxeSwing_OS" ID="{E98E4415-25A0-4168-AEE0-C1CBB7960CD3}">
+							<Language>SFX</Language>
+							<AudioFile>SFX_AxeSwing_OS.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="905996290"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SFX_AxeSwing_OS" ID="{E98E4415-25A0-4168-AEE0-C1CBB7960CD3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5C26A011-36EC-4691-B8D4-1139AE9C752F}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Theo" ID="{5C26A011-36EC-4691-B8D4-1139AE9C752F}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="PLay_Dash_Sound" ID="{426B2F36-6166-4734-AAAC-F036649203C3}">
+					<ChildrenList>
+						<Action Name="" ID="{24B79096-4DD7-4ADA-8715-B7F801258113}" ShortID="1013940297">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Laser Gun Sound Effect 2" ID="{95F359F9-DE69-490F-93C2-9B1FC945F843}" WorkUnitID="{AD642DC9-DE2E-4711-A44A-3E93C9E119B0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
