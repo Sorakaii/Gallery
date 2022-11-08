@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\intermediate\\build\\win64\\unrealeditor\\inc\\cursedlightcpp\\cursedlightcppgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\intermediate\\build\\win64\\cursedlightcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\intermediate\\build\\win64\\unrealeditor\\development\\cursedlightcpp\\definitions.cursedlightcpp.h",
+            "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\source\\cursedlightcpp\\cursedlightcppgamemodebase.h",
+            "f:\\jeux epic\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\jeux epic\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\jeux epic\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "f:\\jeux epic\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\intermediate\\build\\win64\\unrealeditor\\inc\\cursedlightcpp\\cursedlightcppgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
