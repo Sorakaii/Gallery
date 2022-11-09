@@ -1,0 +1,18 @@
+Projet de dernière année fait en groupe, jeu à la 3ème personne mélangeant combat et énigmes se passant dans une forêt sombre et ténébreuse, notre personnage
+et un être de lumière accompagné de sa sphère de lumière pour éradiquer les ténèbres de cette forêt.
+
+Projet toujours en travaux
+
+J'ai travaillé sur les mécaniques des énigmes du jeu : 
+
+- Content\Blueprints\Enigmes
+
+Une grande partie de la sphère utilisée pour les énigmes :
+
+Content\Blueprints\Enigmes\BP_NaviPuzzle
+
+Une UI pour une énigme :
+
+Content\Blueprints\UI\WBP_RootSpamBar + WBP_RootSpamKey
+
+Fait sous UE5

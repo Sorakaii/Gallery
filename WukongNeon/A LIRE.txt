@@ -1,0 +1,10 @@
+Prototype d'un rogue_like inspiré du jeu Hadès et des visuels synthwave
+fait en groupe en 2nde année
+j'ai travaillé sur le système de bonus
+à retrouver ici :
+
+- Content\Core\BP_SpawnBonus
+- Content\Core\PermanentUpgrades
+- Content\Core\UI\WBlueprints\WBP_CursedChoice + WBP_MSChoice + WBP_SlowChoice + WBP_PermanentUpgradeStation
+
+Fait sous UE4
