@@ -15,4 +15,4 @@ Une UI pour une énigme :
 
 Content\Blueprints\UI\WBP_RootSpamBar + WBP_RootSpamKey
 
-Fait sous UE5
+Fait sous UE5, pour ouvrir le projet il faut installer les plug-in (gratut) indiqués lors de la 1ère ouverture du projet
