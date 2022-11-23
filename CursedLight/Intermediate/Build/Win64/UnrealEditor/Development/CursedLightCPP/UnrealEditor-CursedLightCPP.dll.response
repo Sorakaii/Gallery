@@ -11,6 +11,7 @@
 /DELAY:UNLOAD
 /DLL
 /PDBALTPATH:%_PDB%
+/fastfail
 /OPT:NOREF
 /OPT:NOICF
 /INCREMENTAL:NO
@@ -18,10 +19,9 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"F:\Visual Studio 2019\VC\Tools\MSVC\14.29.30133\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -32,13 +32,13 @@
 /NODEFAULTLIB:"LIBCP"
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
-/FUNCTIONPADMIN
-"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Intermediate\Build\Win64\CursedLightCPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPP.cpp.obj"
-"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPPGameModeBase.cpp.obj"
-"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPP.init.gen.cpp.obj"
-"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPPGameModeBase.gen.cpp.obj"
-"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\Default.rc2.res"
+/FUNCTIONPADMIN:6
+"E:\Perforce\CursedLight\Intermediate\Build\Win64\CursedLightCPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\Perforce\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPP.init.gen.cpp.obj"
+"E:\Perforce\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPPGameModeBase.gen.cpp.obj"
+"E:\Perforce\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPP.cpp.obj"
+"E:\Perforce\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\CursedLightCPPGameModeBase.cpp.obj"
+"E:\Perforce\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -67,7 +67,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Binaries\Win64\UnrealEditor-CursedLightCPP.dll"
-/IMPLIB:"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\UnrealEditor-CursedLightCPP.suppressed.lib"
-/PDB:"E:\Mes Docs\Documents\theo.roux_PC-Theo_3331\CursedLight\Binaries\Win64\UnrealEditor-CursedLightCPP.pdb"
+/OUT:"E:\Perforce\CursedLight\Binaries\Win64\UnrealEditor-CursedLightCPP.dll"
+/IMPLIB:"E:\Perforce\CursedLight\Intermediate\Build\Win64\UnrealEditor\Development\CursedLightCPP\UnrealEditor-CursedLightCPP.suppressed.lib"
+/PDB:"E:\Perforce\CursedLight\Binaries\Win64\UnrealEditor-CursedLightCPP.pdb"
 /ignore:4078

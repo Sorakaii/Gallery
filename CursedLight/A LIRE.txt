@@ -1,5 +1,5 @@
-Projet de dernière année fait en groupe, jeu à la 3ème personne mélangeant combat et énigmes se passant dans une forêt sombre et ténébreuse, notre personnage
-et un être de lumière accompagné de sa sphère de lumière pour éradiquer les ténèbres de cette forêt.
+Projet de dernière année fait en groupe, jeu à la 3ème personne mélangeant combats et énigmes se passant dans une forêt sombre et ténébreuse, notre personnage
+est un être de lumière accompagné de sa sphère de lumière pour éradiquer les ténèbres de cette forêt.
 
 Projet toujours en travaux
 
@@ -15,4 +15,8 @@ Une UI pour une énigme :
 
 Content\Blueprints\UI\WBP_RootSpamBar + WBP_RootSpamKey
 
-Fait sous UE5, pour ouvrir le projet il faut installer les plug-in (gratut) indiqués lors de la 1ère ouverture du projet
+Et le tuto du moveset : 
+
+Content\Blueprints\UI\TUTO
+
+Fait sous UE5, pour ouvrir le projet il faut installer le plug-in (gratuit) indiqué lors de la 1ère ouverture du projet

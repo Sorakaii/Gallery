@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "CursedLightCPP",
-			"Path": "E:\\Mes Docs\\Documents\\theo.roux_PC-Theo_3331\\CursedLight\\Source\\CursedLightCPP.Target.cs",
+			"Path": "E:\\Perforce\\CursedLight\\Source\\CursedLightCPP.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "CursedLightCPPEditor",
-			"Path": "E:\\Mes Docs\\Documents\\theo.roux_PC-Theo_3331\\CursedLight\\Source\\CursedLightCPPEditor.Target.cs",
+			"Path": "E:\\Perforce\\CursedLight\\Source\\CursedLightCPPEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

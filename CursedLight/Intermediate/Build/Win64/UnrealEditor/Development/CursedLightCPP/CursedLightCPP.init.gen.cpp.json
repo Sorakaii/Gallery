@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\intermediate\\build\\win64\\unrealeditor\\inc\\cursedlightcpp\\cursedlightcpp.init.gen.cpp",
+        "Source": "e:\\perforce\\cursedlight\\intermediate\\build\\win64\\unrealeditor\\inc\\cursedlightcpp\\cursedlightcpp.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\intermediate\\build\\win64\\cursedlightcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "e:\\perforce\\cursedlight\\intermediate\\build\\win64\\cursedlightcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "e:\\mes docs\\documents\\theo.roux_pc-theo_3331\\cursedlight\\intermediate\\build\\win64\\unrealeditor\\development\\cursedlightcpp\\definitions.cursedlightcpp.h"
+            "e:\\perforce\\cursedlight\\intermediate\\build\\win64\\unrealeditor\\development\\cursedlightcpp\\definitions.cursedlightcpp.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
