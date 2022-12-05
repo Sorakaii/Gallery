@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\Perforce\\CursedLight\\Source\\CursedLightCPP\\CursedLightCPP.Build.cs",
-		"E:\\Perforce\\CursedLight\\Source\\CursedLightCPP.Target.cs",
-		"E:\\Perforce\\CursedLight\\Source\\CursedLightCPPEditor.Target.cs"
+		"D:\\SMI\\Documents\\GitHub\\Gallery\\CursedLight\\Source\\CursedLightCPP\\CursedLightCPP.Build.cs",
+		"D:\\SMI\\Documents\\GitHub\\Gallery\\CursedLight\\Source\\CursedLightCPP.Target.cs",
+		"D:\\SMI\\Documents\\GitHub\\Gallery\\CursedLight\\Source\\CursedLightCPPEditor.Target.cs"
 	],
 	"EngineVersion": "5.1.0"
 }
